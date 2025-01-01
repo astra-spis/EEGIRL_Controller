@@ -1,0 +1,9 @@
+brainflow
+mido
+mne
+mne-realtime
+numpy
+PySimpleGUI
+python-osc
+pyserial
+sentry-sdk
